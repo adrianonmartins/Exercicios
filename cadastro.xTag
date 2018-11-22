@@ -1,0 +1,24 @@
+<!--
+################################################
+# xDevStudio Project - xdev@kssoftware.com.br  #
+# Created @ 14/11/2018 15:07:22                #
+#                                              #
+### Standard xDev TagList - Layout v1.5 ########
+-->
+<taglist>
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="CLR_SKY" args=" " scope="STATIC" type="ptConstant" line="3">
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="Main" args=" " scope="PUBLIC" type="ptFunction" line="5">
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="Interface" args=" " scope="PUBLIC" type="ptFunction" line="62">
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="GerarCodigoContato" args=" " scope="PUBLIC" type="ptFunction" line="174">
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="PessoaFJ" args=" " scope="PUBLIC" type="ptFunction" line="188">
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="CadastroPF" args=" " scope="PUBLIC" type="ptFunction" line="206">
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="CadastroPJ" args=" " scope="PUBLIC" type="ptFunction" line="285">
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="ValidaCadastro" args="<cCodigo>, <cNome>, <cEmail> " scope="PUBLIC" type="ptFunction" line="360">
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="Imprimir" args=" " scope="PUBLIC" type="ptFunction" line="379">
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="Editar" args=" " scope="PUBLIC" type="ptFunction" line="402">
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="Excluir" args=" " scope="PUBLIC" type="ptFunction" line="564">
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="pesq_codigo" args=" " scope="PUBLIC" type="ptFunction" line="574">
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="pesq_nome" args=" " scope="PUBLIC" type="ptFunction" line="595">
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="pesq_telefone" args=" " scope="PUBLIC" type="ptFunction" line="612">
+   <tag filename="C:\Des\build\Exercicios\cadastros.prg" name="pesq_CPFCNPJ" args=" " scope="PUBLIC" type="ptFunction" line="628">
+</taglist>

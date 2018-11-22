@@ -1,0 +1,36 @@
+-I"C:\Des\build\bcc17\include;C:\Des\build\fwh17\include;C:\Des\build\xhb17\include;;" +
+-L"C:\Des\build\bcc17\lib;C:\Des\build\bcc17\lib\psdk;C:\Des\build\fwh17\lib;C:\Des\build\xhb17\lib;;;;;" +
+-aa +
+-Gn -Tpe -s +
+c0w32.obj +    
+"C:\Des\build\Exercicios\cliente.obj", + 
+"C:\Des\build\Exercicios\cliente.EXE", +   
+"C:\Des\build\Exercicios\cliente.map", +   
+FiveHx.lib FiveHC.lib +
+rtl.lib +      
+vm.lib +       
+gtgui.lib  + 
+lang.lib +     
+macro.lib +    
+rdd.lib +      
+codepage.lib + 
+dbfntx.lib +   
+dbffpt.lib +   
+hbsix.lib    + 
+common.lib +   
+pp.lib +       
+ct.lib +       
+lang.lib +       
+pcrepos.lib +       
+png.lib +       
+tip.lib +       
+zlib.lib +       
+hbzip.lib +       
+cw32.lib +     
+import32.lib + 
+nddeapi.lib +
+iphlpapi.lib +
+rasapi32.lib +
+shell32.lib +
+,
+"C:\Des\build\Exercicios\cliente.res" 
